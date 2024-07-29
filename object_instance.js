@@ -10,7 +10,7 @@ person.age = 24
 person.city = "Dhaka"
 person.isBangladeshi = true
 
-// Anonymus function
+// Anonymous function
 person.getName = () =>{
     return `My name is ${person.first_name} ${person.last_name}`;
 };
@@ -36,7 +36,7 @@ person.age = 24
 person.city = "Dhaka"
 person.isBangladeshi = true
 
-// Anonymus function
+// Anonymous function
 person.getName = () =>{
     return `My name is ${person.first_name} ${person.last_name}`;
 };
