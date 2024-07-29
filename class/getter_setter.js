@@ -19,12 +19,12 @@ console.log(ProductObj);
 
 
 class Product{
-    // set means keywords.
+    // set means keywords. setter means value set
     set SetPrice(value){
         this.price = value;
     }
 
-    // get means keywords.
+    // get means keywords. getter means value out
     get GetPrice(){
         return this.price;
     }
