@@ -9,7 +9,10 @@ let person = {
         console.log(`My full name is ${person.firstName} ${person.lastName}`)
     }
 };
-Output is:
+
+console.log(person);
+
+// Output is:
 // {
 //     firstName: 'Naimur',
 //     lastName: 'Rahman',
